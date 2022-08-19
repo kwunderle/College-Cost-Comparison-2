@@ -1,0 +1,10 @@
+C:\Users\KATIE\Desktop\School\C#\Homework\Homework 11\BYOMethodWithParmOut - Katharine Wunderle\obj\Debug\BYOMethodWithParmOut - Katharine Wunderle.csprojAssemblyReference.cache
+C:\Users\KATIE\Desktop\School\C#\Homework\Homework 11\BYOMethodWithParmOut - Katharine Wunderle\obj\Debug\CollegeCostComparison___Katharine_Wunderle.BYOMethodWithParmOut.resources
+C:\Users\KATIE\Desktop\School\C#\Homework\Homework 11\BYOMethodWithParmOut - Katharine Wunderle\obj\Debug\BYOMethodWithParmOut - Katharine Wunderle.csproj.GenerateResource.cache
+C:\Users\KATIE\Desktop\School\C#\Homework\Homework 11\BYOMethodWithParmOut - Katharine Wunderle\obj\Debug\BYOMethodWithParmOut - Katharine Wunderle.csproj.CoreCompileInputs.cache
+C:\Users\KATIE\Desktop\School\C#\Homework\Homework 11\BYOMethodWithParmOut - Katharine Wunderle\bin\Debug\BYOMethodWithParmOut - Katharine Wunderle.exe.config
+C:\Users\KATIE\Desktop\School\C#\Homework\Homework 11\BYOMethodWithParmOut - Katharine Wunderle\bin\Debug\BYOMethodWithParmOut - Katharine Wunderle.exe
+C:\Users\KATIE\Desktop\School\C#\Homework\Homework 11\BYOMethodWithParmOut - Katharine Wunderle\bin\Debug\BYOMethodWithParmOut - Katharine Wunderle.pdb
+C:\Users\KATIE\Desktop\School\C#\Homework\Homework 11\BYOMethodWithParmOut - Katharine Wunderle\obj\Debug\BYOMethodWithParmOut___Katharine_Wunderle.Properties.Resources.resources
+C:\Users\KATIE\Desktop\School\C#\Homework\Homework 11\BYOMethodWithParmOut - Katharine Wunderle\obj\Debug\BYOMethodWithParmOut - Katharine Wunderle.exe
+C:\Users\KATIE\Desktop\School\C#\Homework\Homework 11\BYOMethodWithParmOut - Katharine Wunderle\obj\Debug\BYOMethodWithParmOut - Katharine Wunderle.pdb
